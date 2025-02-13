@@ -1,5 +1,5 @@
-#cd server
-#npm run dev
+cd server \b
+npm run dev \b
 
-#cd client
-#npm run dev
+cd client
+npm run dev
